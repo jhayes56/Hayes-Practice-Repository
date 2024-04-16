@@ -3,4 +3,5 @@
 
 | Wiki Page | Description |
  --- | ---
-|  
+| Technical Writing Practice | Exactly what is douns likes |
+| What is LDAP over TLS? | A brief summary of the LDAP over TLS protocol |
